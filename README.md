@@ -50,12 +50,12 @@ Website ini memiliki 3 halaman utama,diantaranya yaitu:
 ---
 
 ## Link Repository GitHub
-https://github.com/msatriaprayoga/uts-msatriaprayoga-24090108
+https://github.com/msatriaprayoga/UTS-MSTRPRAYOGA-24090108
 
 ---
 
 ## Link GitHub Pages
-https://msatriaprayoga.github.io/uts-msatriaprayoga-24090108/
+https://msatriaprayoga.github.io/UTS-MSTRPRAYOGA-24090108/
 
 ---
 
